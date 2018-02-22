@@ -2,7 +2,7 @@
 title: "Зачем лингвистам карты?"
 subtitle: "`lingtypology` --- пакет на R для визуализации лингвистических карт"
 author: "Г. Мороз <br> Международная лаборатория языковой конвергенции НИУ ВШЭ"
-date: "2018/02/22, <a href='http://schemo.ru/2018/02/02/schemo14.html'>Схемотехника 14 </a> <br> Ссылка на презентацию: "
+date: "2018/02/22, <a href='http://schemo.ru/2018/02/02/schemo14.html'>Схемотехника 14 </a> <br> Ссылка на презентацию: https://goo.gl/BSE6YK"
 bibliography: bibliography.bib
 output:
   slidy_presentation:
@@ -317,6 +317,6 @@ map.feature(languages = circassian$language,
 
 Г. Мороз (agricolamz@gmail.com)
 
-Link to this presentation: []()
+Link to this presentation: [https://goo.gl/BSE6YK](https://goo.gl/BSE6YK)
 
 ## Referenses {.smaller}
