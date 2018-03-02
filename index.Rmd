@@ -165,7 +165,7 @@ map.feature(df$languages,
             tile = "Esri.WorldStreetMap",
             title = "Level of knowledge of Russian")
 ```
-Данные собраны [Ниной Дабрушенной, и др.](https://multidagestan.com/team)
+Данные собраны [Ниной Добрушиной, и др.](https://multidagestan.com/team)
 
 ## 2. языковые признаки: время <br> Изменение во владение русским и лакским
 ```{r}
@@ -186,7 +186,7 @@ leaflet() %>%
     height = 45,
     showLabels = TRUE)
 ```
-Данные собраны [Ниной Дабрушенной, и др.](https://multidagestan.com/team)
+Данные собраны [Ниной Добрушиной, и др.](https://multidagestan.com/team)
 
 ## 2. Казалось бы проблем нет?
 
